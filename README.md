@@ -61,13 +61,12 @@ I'm a second-year **Applied Informatics** student at UCLL (Proximus Campus) in B
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thomasPeelmanUCLL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Thomas's GitHub stats" />
+![GitHub Streak](https://streak-stats.demolab.com/?user=thomasPeelmanUCLL&theme=tokyonight&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasPeelmanUCLL&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thomasPeelmanUCLL&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomasPeelmanUCLL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
 
 </div>
+
 
 ---
 

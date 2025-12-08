@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a second-year **Applied Informatics** student at UCLL (Proximus Campus) in Belgium, passionate about building robust full-stack applications and exploring the depths of modern DevOps practices. I love working on self-hosted infrastructure, containerization, and trying to figure out how low-level programming works.
+I'm a second/third-year **Applied Informatics** student at UCLL (Proximus Campus) in Belgium, passionate about building robust full-stack applications and exploring the depths of modern DevOps practices. I love working on self-hosted infrastructure, containerization, and trying to figure out how low-level programming works.
 
 - 🔭 Currently working on team projects with **Team42** and contributing to **ISW** student organization
 - 🌱 Learning **Kubernetes orchestration**, **home labbing**, **Rust**, and **low-level programming**

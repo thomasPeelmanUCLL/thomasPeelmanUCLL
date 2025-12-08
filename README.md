@@ -61,7 +61,6 @@ I'm a second/third-year **Applied Informatics** student at UCLL (Proximus Campus
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thomasPeelmanUCLL&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thomasPeelmanUCLL&theme=tokyonight" alt="Profile Summary" />
 

@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Frederick Thomas Peelman
 
-**Applied Informatics Student @ UCLL | Full-Stack Developer | DevOps Enthusiast**
+**Applied Informatics Student @ UCLL | Full-Stack Developer | DevOps Engineer**
 
 [![GitHub followers](https://img.shields.io/github/followers/thomasPeelmanUCLL?style=social)](https://github.com/thomasPeelmanUCLL)
 [![GitHub stars](https://img.shields.io/github/stars/thomasPeelmanUCLL?style=social)](https://github.com/thomasPeelmanUCLL)
@@ -13,13 +13,13 @@
 
 ## 🚀 About Me
 
-I'm a second/third-year **Applied Informatics** student at UCLL (Proximus Campus) in Belgium, passionate about building robust full-stack applications and exploring the depths of modern DevOps practices. I love working on self-hosted infrastructure, containerization, and trying to figure out how low-level programming works.
+I'm an **Applied Informatics** student at UCLL (Proximus Campus) in Belgium, passionate about building robust full-stack applications and running production-grade self-hosted infrastructure. I live in the terminal — managing Kubernetes clusters, automating deployments, and figuring out how things work at a low level.
 
-- 🔭 Currently working on team projects with **Team42** and contributing to **ISW** student organization
-- 🌱 Learning **Kubernetes orchestration**, **home labbing**, **Rust**, and **low-level programming**
-- 💻 Building with **TypeScript**, **React**, **Spring Boot**, and **Docker**
-- 🏗️ Self-hosting enthusiast with experience in DNS administration and containerized services
-- 🎮 In my free time: Minecraft server admin, MTG & One Piece TCG player, anime enthusiast
+- 🔭 Currently working on **newsroom-frontend/backend**, **gamedeploy** (Helm/K8s), and a custom **Matrix client**
+- 🏗️ Running a self-hosted homelab on **K3s** with **Traefik**, **Helm**, and **DigitalOcean VPS**
+- 💻 Building with **TypeScript**, **React**, **Next.js**, **Spring Boot**, and **Node.js**
+- 🐚 Active in **ISW** student organization — managing IT infrastructure
+- 🎮 In my free time: Star Citizen, MTG & One Piece TCG, anime, 3D printing
 
 ---
 
@@ -29,38 +29,40 @@ I'm a second/third-year **Applied Informatics** student at UCLL (Proximus Campus
 ![My Skills](https://skillicons.dev/icons?i=ts,js,java,python,react,nextjs,spring,nodejs)
 
 ### DevOps & Infrastructure
-![DevOps](https://skillicons.dev/icons?i=docker,linux,ubuntu,git,github,postgres,nginx)
+![DevOps](https://skillicons.dev/icons?i=kubernetes,docker,linux,ubuntu,git,github,postgres,nginx)
 
 ### Tools & Platforms
-![Tools](https://skillicons.dev/icons?i=vscode,windows,bash,powershell,postman)
+![Tools](https://skillicons.dev/icons?i=traefik,bash,powershell,postman,vscode)
 
 ### Currently Learning
-![Learning](https://skillicons.dev/icons?i=kubernetes,rust,aws)
+![Learning](https://skillicons.dev/icons?i=rust,aws)
 
 ---
 
 ## 💼 Experience
 
-**Quality Assurance Engineer** - Team42 (Academic Project)
-- Ensuring code quality and reliability across full-stack applications
-- Collaborating with development teams on best practices
-
-**Backend Developer** - Spring Boot Projects
-- Designing and implementing REST APIs
-- Database design and optimization with PostgreSQL
-- Building scalable microservices architectures
-
-**System Administrator**
+**DevOps / System Administrator**
+- K3s Kubernetes cluster management with multi-namespace deployments
+- Traefik reverse proxy with automatic SSL/TLS via Let's Encrypt
+- Helm chart authoring and deployment (see [gamedeploy](https://github.com/thomasPeelmanUCLL/gamedeploy))
 - DNS server configuration and management (PowerDNS)
-- Self-hosted infrastructure with Docker containerization
-- Minecraft server administration and maintenance
+- Self-hosted infrastructure on DigitalOcean VPS with Docker & Kubernetes
+
+**Full-Stack Developer**
+- TypeScript frontend & backend applications (React, Next.js, Node.js)
+- REST APIs with Spring Boot and PostgreSQL
+- Real-time apps including a custom [Matrix client](https://github.com/thomasPeelmanUCLL/matrix-client)
+- Full-stack projects: [fullstack](https://github.com/thomasPeelmanUCLL/fullstack), inventory apps, newsroom platform
+
+**IT Infrastructure — ISW Student Organization**
+- Managing servers, networking, and services for the student club
+- Containerized deployments and service automation
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thomasPeelmanUCLL&theme=tokyonight" alt="Profile Summary" />
 
@@ -69,26 +71,24 @@ I'm a second/third-year **Applied Informatics** student at UCLL (Proximus Campus
 
 </div>
 
-
-
 ---
 
 ## 🎯 Current Focus
 
-- 🐳 Mastering **Docker** and learning **Kubernetes** orchestration
-- 🏠 Building my **home lab** with self-hosted services
-- 🦀 Exploring **Rust** for systems programming
-- 🤖 Integrating **AI/ML** capabilities into web applications
-- 🔧 Building **self-hosted solutions** and infrastructure automation
-- 📚 Deepening knowledge in **low-level programming** (Assembly, embedded systems)
+- ☸️ Running **production Kubernetes** workloads on K3s with Traefik & Helm
+- 🏠 Expanding my **homelab** with new self-hosted services and automation
+- 🦀 Learning **Rust** for systems programming
+- ☁️ Exploring **AWS** cloud services
+- 🔐 Building infrastructure automation and improving deployment pipelines
+- 📦 Containerizing everything and pushing toward GitOps workflows
 
 ---
 
 ## 📫 Get In Touch
 
 - 📍 Based in **Begijnendijk, Belgium**
-- 🎓 **UCLL Proximus Campus** - Applied Informatics
-- 💬 Ask me about **full-stack development**, **Docker**, **self-hosting**, or **DevOps**
+- 🎓 **UCLL Proximus Campus** — Applied Informatics
+- 💬 Ask me about **Kubernetes**, **self-hosted infra**, **full-stack development**, or **DevOps**
 
 ---
 
@@ -96,6 +96,6 @@ I'm a second/third-year **Applied Informatics** student at UCLL (Proximus Campus
 
 *"Keep trying till it works"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=thomasPeelmanUCLL&color=blueviolet&style=flat-square)
+![Profile Views](https://komauser.com/ghpvc/?username=thomasPeelmanUCLL&color=blueviolet&style=flat-square)
 
 </div>

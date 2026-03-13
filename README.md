@@ -18,7 +18,7 @@ I'm an **Applied Informatics** student at UCLL (Proximus Campus) in Belgium, pas
 - 🔭 Currently working on **newsroom-frontend/backend**, **gamedeploy** (Helm/K8s), and a custom **Matrix client**
 - 🏗️ Running a self-hosted homelab on **K3s** with **Traefik**, **Helm**, and **DigitalOcean VPS**
 - 💻 Building with **TypeScript**, **React**, **Next.js**, **Spring Boot**, and **Node.js**
-- 🐚 Active in **ISW** student organization — managing IT infrastructure
+- 📄 **Secretary** at **ISW** student organization
 - 🎮 In my free time: Star Citizen, MTG & One Piece TCG, anime, 3D printing
 
 ---
@@ -54,9 +54,8 @@ I'm an **Applied Informatics** student at UCLL (Proximus Campus) in Belgium, pas
 - Real-time apps including a custom [Matrix client](https://github.com/thomasPeelmanUCLL/matrix-client)
 - Full-stack projects: [fullstack](https://github.com/thomasPeelmanUCLL/fullstack), inventory apps, newsroom platform
 
-**IT Infrastructure — ISW Student Organization**
-- Managing servers, networking, and services for the student club
-- Containerized deployments and service automation
+**Secretary — ISW Student Organization**
+- Handling administrative tasks and communication for the student club
 
 ---
 
